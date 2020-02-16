@@ -1,0 +1,23 @@
+.banner{
+	background: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/vitrines.jpg);
+	color: white;
+	padding: 200px 0px;
+	background-size: cover;
+	margin-bottom: -300px;
+}
+
+.banner h1{
+	font-size: 30px;
+	margin-top: -200px;
+	margin-left: 20px;
+}
+
+.banner h2{
+	font-size: 30px;
+	margin-top: -28px;
+	margin-left: 20px;
+}
+
+.banner a{
+	background-color: #5c5757;
+}

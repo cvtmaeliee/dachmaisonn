@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Domine|EB+Garamond|Frank+Ruhl+Libre:500,700,900|Noto+Serif+JP:200,300,400|Prata&display=swap");
+
+@import url("components/container.css");
+@import url("components/clothes.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'EB Garamond', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Noto Serif JP', serif;
+	font-weight: lighter;
+	letter-spacing: 3px;
+
+}
+
+h2{
+	font-family: 'Domine', serif;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
+
+h3{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 30px;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 8px black;
+}
+
+h4{
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+
+a{
+	text-decoration: none;
+	font-family: 'Prata', serif;
+}
